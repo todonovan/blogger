@@ -6,4 +6,4 @@ The introductory tutorial takes you step-by-step through building a simple blog 
 
 To follow along with the tutorial yourself, visit their site at: [tutorials.jumpstartlab.com](http://tutorials.jumpstartlab.com).
 
-The project was recommended by [The Odin Project](www.theodinproject.com), an open source resource for learning web development.
+The project was recommended by [The Odin Project](http://www.theodinproject.com), an open source resource for learning web development.
